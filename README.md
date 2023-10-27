@@ -25,5 +25,5 @@ AWS Services:
 - Interpreting the Data
 
 ### Results
-Flair is the best library that can be able to guess the meaning
-Logesstic Regression is the best model that can predict the daa with Accuracy Score: 0.9395 ROC-AUC: 0.9734
+- Flair is the best library that can be able to guess the meaning
+- Logesstic Regression is the best model that can predict the daa with Accuracy Score: 0.9395 ROC-AUC: 0.9734
