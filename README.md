@@ -1,4 +1,4 @@
-# Elon Musk in the eyes of twitter users -Sentiment Analysis Project using (NLP)
+# Elon Musk in the eyes of twitter users -Sentiment Analysis Project using (NLP) Sep 5, 2023
 
 ### Project/Goals
 This is a Sentiment Analysis Project using Natural Language Processing (NLP) Techniques, PySpark. The topic is about Elon Musk. I felt it would be a good idea to measure the people’s opinion and to obtain insights into how Twitter users felt about Elon Musk. The data is collected (328,766) for only two days (Nov 21 - Nov 22), 2022.
